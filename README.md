@@ -56,7 +56,7 @@
     <td align="center">
       <h3 align="center">🎧 Spotify Clone</h3>
       <p>Desenvolvimento de interface responsiva e lógica de player com JS.</p>
-      <a href="https://github.com/Springuiz/spotify-clone"> 
+      <a href="https://github.com/Springuiz/Spotify-Dev-Player-Harmony"> 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Springuiz&repo=spotify-clone&theme=tokyonight&show_owner=true" alt="spotify-clone"/>
       </a>
     </td>
