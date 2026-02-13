@@ -41,19 +41,6 @@
 
 ---
 
-### 💻 Estatísticas de Programação
-<div align="center">
-  <a href="https://github.com/Springuiz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Springuiz&show_icons=true&theme=transparent&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=00000000&include_all_commits=true&count_private=true" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Springuiz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Springuiz&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&bg_color=00000000&hide_border=true" />
-  </a>
-</div>
-
----
-
 ### 📁 Projetos em Destaque
 <table align="center">
   <tr>
