@@ -5,7 +5,7 @@
     </td>
     <td align="left">
       <h1>Hii, eu sou o Guilherme (Springuiz)! 👋</h1>
-      <p>Estudante de Ciência da Computação @ <b>UNIFACS</b></p>
+      <p>Estudante de Ciência da Computação</p>
       <p><i>Dev Front-End | JavaScript | HTML | CSS</i></p>
       <img src="https://img.shields.io/badge/Status-Disponível%20para%20Estágio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Status">
     </td>
