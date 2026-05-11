@@ -4,7 +4,7 @@
       <img src="https://i.pinimg.com/736x/99/f7/44/99f744c65f3fe3a23b8c506b5c5c6306.jpg" width="150" style="border-radius: 50%;" alt="Guilherme">
     </td>
     <td align="left">
-      <h1>Hii, eu sou o Guilherme (Springuiz)! 👋</h1>
+      <h1>Hii, eu sou o Guilherme (ivory)! 👋</h1>
       <p>Estudante de Ciência da Computação</p>
       <p><i>Dev Front-End | JavaScript | HTML | CSS</i></p>
       <img src="https://img.shields.io/badge/Status-Disponível%20para%20Estágio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Status">
